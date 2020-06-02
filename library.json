@@ -1,0 +1,20 @@
+
+{
+    "name": "atmelavrStreamString",
+    "description": "ESP8266 StreamString class for atmelavr",
+    "keywords": "StreamString atmelavr",
+    "authors": {
+        "name": "sascha_lammers@gmx.de",
+        "maintainer": true
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sascha432/atmelavrStreamString"
+    },
+    "version": "0.0.1",
+    "license": "GPL-3.0",
+    "frameworks": "arduino",
+    "platforms": [
+        "atmelavr"
+    ]
+}
