@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/sascha432/atmelavrStreamString"
+        "url": "https://github.com/sascha432/atmelavrStreamString.git"
     },
     "version": "0.0.1",
     "license": "GPL-3.0",
